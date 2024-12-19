@@ -27,6 +27,7 @@
       npm install
     <h3>4. Start the server:</h3>
       npm app.js
-
-    <h2>open your brownser and go to:</h2>
+  
+  <h2>open your brownser and go to:</h2>
       http://localhost:3000
+
